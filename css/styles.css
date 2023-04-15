@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 150px;
+    background-color: black;
+}
+
+.catalogo{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

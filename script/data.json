@@ -1,0 +1,51 @@
+[{
+    "titulo": "aMemoirBlue",
+    "Categoria": "aventura",
+    "precio": 1000,
+    "img": "./img/tarjeta-1.jpg"
+},
+{
+    "titulo": "rogueLegacy2",
+    "Categoria": "accion",
+    "precio": 1500,
+    "img": "./img/tarjeta-2.jpg"
+},
+{
+    "titulo": "trekToYomi",
+    "Categoria": "estrategia",
+    "precio": 2000,
+    "img": "./img/tarjeta-3.jpg"
+},
+{
+    "titulo": "Kao the kangaroo",
+    "Categoria": "aventura",
+    "precio": 2500,
+    "img": "./img/tarjeta-4.jpg"
+},
+{
+    "titulo": "Souldiers",
+    "Categoria": "accion",
+    "precio": 3500,
+    "img": "./img/tarjeta-5.jpg"
+
+},
+{
+    "titulo": "the monkey island",
+    "Categoria": "aventura",
+    "precio": 3200,
+    "img": "./img/MonkeyIsland.jpg"
+},
+{
+    "titulo": "Tinykin",
+    "Categoria": "plataforma",
+    "precio": 1900,
+    "img": "./img/tinykin.jpg"
+
+},
+{
+    "titulo": "Citizen Sleeper",
+    "Categoria": "plataforma",
+    "precio": 2500,
+    "img": "./img/CitizenSleeper.jpg"
+}
+]
